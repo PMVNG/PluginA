@@ -1,0 +1,6 @@
+---
+name: PluginA
+version: 0.0.1
+main: PMVNG\PluginA\Main
+api: 5.0.0
+...
